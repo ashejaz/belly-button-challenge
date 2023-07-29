@@ -53,9 +53,8 @@ function createBarChart(data, subjectID) {
   
     // Define the layout for the bar chart
     const layoutBar = {
-      title: "Top 10 OTUs",
-      xaxis: { title: "Sample Values" },
-      yaxis: { title: "OTU ID" }
+      title: "Top 10 Microbial Species",
+      xaxis: { title: "Sample Values" }
     };
   
     // Plot the bar chart
@@ -85,8 +84,8 @@ function createBarChart(data, subjectID) {
   
     // Define the layout for the bubble chart
     const layoutBubble = {
-      title: "Sample OTUs",
-      xaxis: { title: "OTU ID" },
+      title: "Microbial Species Present",
+      xaxis: { title: "Operational Taxonomic Unit (OTU) ID" },
       yaxis: { title: "Sample Values" }
     };
   
