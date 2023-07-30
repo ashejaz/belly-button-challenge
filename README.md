@@ -7,6 +7,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## files
 
 - The data used can be found in the 'samples.json' file.
+- The HTML code can be found in the 'index.html' file.
 - The JavaScript code can be found in the 'app.js' file in the 'static/js' folder.
 - The dashboard itself can be found at: https://ashejaz.github.io/belly-button-challenge/
 
